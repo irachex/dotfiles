@@ -51,9 +51,6 @@ source $ZSH/oh-my-zsh.sh
 
 # User configuration
 
-export PATH="/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:$HOME/bin"
-# export MANPATH="/usr/local/man:$MANPATH"
-
 # You may need to manually set your language environment
 export LANG=en_US.UTF-8
 
@@ -85,6 +82,8 @@ export AUTOJUMP_IGNORE_CASE=1
 export AUTOJUMP_AUTOCOMPLETE_CMDS='cp'
 
 # Path config
+export PATH="$PATH:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:$HOME/.rvm/bin:$HOME/bin"
+# export MANPATH="/usr/local/man:$MANPATH"
 export NODE_PATH=/usr/local/lib/node_modules/;
 
 # Alias
