@@ -1,3 +1,5 @@
+let g:yadr_using_unsolarized_terminal = 1
+
 " Use Vim settings, rather then Vi settings (much better!).
 " This must be first, because it changes other options as a side effect.
 set nocompatible
@@ -104,4 +106,4 @@ set sidescroll=1
 
 
 " ================ Custom Settings ========================
-so ~/.yadr/vim/settings.vim
+so ~/.vim/settings.vim
