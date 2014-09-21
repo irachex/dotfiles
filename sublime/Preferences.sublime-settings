@@ -1,0 +1,24 @@
+{
+	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules",
+		".tmp",
+		".sass-cache",
+		".statictmp",
+		"venv",
+		"permdir",
+		"__pycache__"
+	],
+	"font_size": 16.0,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Spacegray.sublime-theme",
+	"trim_trailing_white_space_on_save": true
+}

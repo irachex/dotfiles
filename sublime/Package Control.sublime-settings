@@ -1,0 +1,9 @@
+{
+	"installed_packages":
+	[
+		"Mako",
+		"Package Control",
+		"Python Flake8 Lint",
+		"Theme - Spacegray"
+	]
+}
