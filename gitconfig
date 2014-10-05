@@ -5,7 +5,7 @@
 	user = irachex
 	token = bb8a7b6fa2ca78c4fae755a2f546bd2b
 [alias]
-	lg = log —color —graph —pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' —abbrev-commit —date=relative
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
 	rank = shortlog -sn
 	st = status
 	ci = commit

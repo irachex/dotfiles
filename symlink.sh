@@ -11,3 +11,4 @@ SUBLIME_SETTINGS_DIR="$HOME/Library/Application Support/Sublime Text 2/Packages/
 ln -fs "$(pwd)/sublime/Preferences.sublime-settings" $SUBLIME_SETTINGS_DIR
 ln -fs "$(pwd)/sublime/Package Control.sublime-settings" $SUBLIME_SETTINGS_DIR
 ln -fs "$(pwd)/sublime/Flake8Lint.sublime-settings" $SUBLIME_SETTINGS_DIR
+ln -fs "$(pwd)/sublime/Python.sublime-settings" $SUBLIME_SETTINGS_DIR

@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"Makefile Improved",
 		"Mako",
 		"Package Control",
 		"Python Flake8 Lint",
