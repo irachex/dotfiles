@@ -7,6 +7,8 @@ ln -s $(pwd)/zhy.zsh-theme ~/.oh-my-zsh/themes/zhy.zsh-theme
 ln -s $(pwd)/vimrc ~/.vimrc
 ln -s $(pwd)/vim ~/.vim
 
+ln -s $(pwd)/pip ~/.pip
+
 SUBLIME_SETTINGS_DIR="$HOME/Library/Application Support/Sublime Text 2/Packages/User/"
 ln -fs "$(pwd)/sublime/Preferences.sublime-settings" $SUBLIME_SETTINGS_DIR
 ln -fs "$(pwd)/sublime/Package Control.sublime-settings" $SUBLIME_SETTINGS_DIR
