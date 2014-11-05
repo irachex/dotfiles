@@ -81,6 +81,8 @@ export LANG=en_US.UTF-8
 export AUTOJUMP_IGNORE_CASE=1
 export AUTOJUMP_AUTOCOMPLETE_CMDS='cp'
 
+export EDITOR=subl
+
 # Path config
 export PATH="/usr/local/bin:$HOME/.rvm/bin:$HOME/bin:/usr/bin:/bin:/usr/sbin:/sbin:$PATH"
 # export MANPATH="/usr/local/man:$MANPATH"

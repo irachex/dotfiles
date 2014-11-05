@@ -1,6 +1,7 @@
 [user]
 	name = Huayi Zhang
 	email = irachex@gmail.com
+	username = irachex
 [github]
 	user = irachex
 	token = bb8a7b6fa2ca78c4fae755a2f546bd2b
@@ -22,4 +23,4 @@
 [push]
 	default = current
 [color]
-	ui = true
+	ui = auto
